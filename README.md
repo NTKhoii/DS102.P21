@@ -39,7 +39,7 @@ This project aims to analyze and predict forest fire occurrences based on enviro
 ## 📎 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NTKhoii/ForestFirePrediction.git
+   git clone https://github.com/NTKhoii/DS102.P21.git
    ```
 2. Install dependencies:
    ```bash
